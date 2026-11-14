@@ -1,0 +1,6 @@
+feat: seed richer demo data for UI and phpMyAdmin
+
+Add 3 companies, 4 candidates, 6 jobs (5 published), 8 applications
+with varied statuses, and 15 skills so lists and dashboards are visible.
+
+Co-authored-by: Cursor <cursoragent@cursor.com>
