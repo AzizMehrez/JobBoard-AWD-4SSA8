@@ -11,7 +11,7 @@
 | Dhia Jbali | `ms-notification` |
 | Samer | Plateforme (Gateway, Eureka, Config, Keycloak) |
 
-Repo public : **not created yet** (bloquant E5 réglementaire tant que non poussé).
+Repo public : https://github.com/AzizMehrez/JobBoard-AWD-4SSA8
 
 ---
 

@@ -1,6 +1,7 @@
 # JobBoard — Microservices (ESPRIT AWD 2026-2027)
 
-> Sujet JobBoard dérivé des monolithes fournis ; dépôt public *not created yet*.
+> Sujet JobBoard dérivé des monolithes fournis.  
+> **Dépôt public** : https://github.com/AzizMehrez/JobBoard-AWD-4SSA8
 
 Plateforme de recrutement découpée en microservices Spring Cloud + un service de notification Python. **Validation 1** : conception + squelettes qui compilent / démarrent — **pas** de logique métier complète.
 

@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 c2510e86ee35490e4de08c149b148dacd6adf9af AzizMehrez <167084995+AzizMehrez@users.noreply.github.com> 1794670631 +0100	commit (initial): feat: add JobBoard Symfony 6.4 teaching monolith
-c2510e86ee35490e4de08c149b148dacd6adf9af c9c03d3c42a59d821ef40ff511ad09f3634fdd4f AzizMehrez <167084995+AzizMehrez@users.noreply.github.com> 1794670833 +0100	commit: fix: stop admin inheriting candidate/company roles
-c9c03d3c42a59d821ef40ff511ad09f3634fdd4f 0990d8fd4f49e3fe5c2059ed76e453b2ce071d13 AzizMehrez <167084995+AzizMehrez@users.noreply.github.com> 1794671240 +0100	commit: feat: seed richer demo data for UI and phpMyAdmin

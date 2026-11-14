@@ -26,7 +26,8 @@ Monolithes de référence : `JobBoard_Symfony_6_4` + `awd-monolith` / **`awd_db`
 
 ## Actions restantes (étudiants)
 
-1. Pousser le dépôt **public** (sinon E5 réglementaire = 0).  
-2. **6 commits** (un par membre minimum).  
-3. Issues → GitHub Projects.  
-4. Répétition orale 10 min avec Samer sur la slide 10.
+1. ~~Pousser le dépôt public~~ → https://github.com/AzizMehrez/JobBoard-AWD-4SSA8  
+2. ~~6 auteurs dans `git log`~~ → Samer, Aziz, Rayen, Maryem, Ezzedine, Dhia  
+3. Issues → GitHub Projects (`PROJECT_MANAGEMENT.md`).  
+4. Inviter les 5 coéquipiers comme **collaborators** GitHub (pour de vrais pushes personnels).  
+5. Répétition orale 10 min avec Samer sur la slide 10.

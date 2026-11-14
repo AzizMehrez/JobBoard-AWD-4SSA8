@@ -46,3 +46,7 @@ Thumbs.db
 # Large / local DB
 **/*.db
 **/jobboard.db
+
+# Nested git metadata
+**/.git_symfony_backup/
+
